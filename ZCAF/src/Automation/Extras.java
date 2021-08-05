@@ -12,7 +12,7 @@ public class Extras {
 	public static void main(String[] args)
 	{
 		//System.out.println(getCurrentTimeStamp());
-		System.out.println("test");
+		System.out.println("test33");
 	}
 
 	public boolean highlightElement(WebDriver driver,WebElement wl) {
